@@ -1,45 +1,45 @@
-# Honey_Production_in_the_USA_in_Machine_Learning
+## Honey_Production_in_the_USA_in_Machine_Learning
 
-Dataset :https://www.kaggle.com/jessicali9530/honey-production
+#### Dataset :https://www.kaggle.com/jessicali9530/honey-production
 
-####STEPS####
+### STEPS
 
-#1-import library
+- 1-import library
 
-#2-insert dataset
+- 2-insert dataset
 
-#3-head()
+- 3-head()
 
-#4-samplee()
+- 4-samplee()
 
-#5-tail()
+- 5-tail()
 
-#6-shape
+- 6-shape
 
-#7-describe()
+- 7-describe()
 
-#8-groupby()
+- 8-groupby()
 
-#9-hist()
+- 9-hist()
 
-#10-corr()
+- 10-corr()
 
-#11-correlation map
+- 11-correlation map
 
-#12-scatter Plot
+- 12-scatter Plot
 
-#13-isnull()
+- 13-isnull()
 
-#14-outliers
+- 14-outliers
 
-#15-create new attribute
+- 15-create new attribute
 
-#16-Normalization
+- 16-Normalization
 
-#17-Mulitple Lineer Regression
+- 17-Mulitple Lineer Regression
 
-#18-Naive Bayes
+- 18-Naive Bayes
 
-#19-model results and interpretation
+- 19-model results and interpretation
 
-#20-Interpration of results
+- 20-Interpration of results
